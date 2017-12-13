@@ -1,0 +1,104 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+3 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\target\scala-2.11\classes\example\Lists$$anonfun$sum$1.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\target\scala-2.11\classes\example\Lists$.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\target\scala-2.11\classes\example\Lists.class
+binary dependencies:
+2 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+3 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> example.Lists
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> example.Lists$
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> example.Lists$$anonfun$sum$1
+used names:
+22 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> +
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> <init>
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> >
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> AnyRef
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> Int
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> List
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> Lists
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> NoSuchElementException
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> acc
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> elem
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> example
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> foldLeft
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> head
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> isEmpty
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> java
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> max
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> maxAcc
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> package
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> scala
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> tail
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> util
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> xs
+product stamps:
+3 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\target\scala-2.11\classes\example\Lists$$anonfun$sum$1.class -> lastModified(1512932124425)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\target\scala-2.11\classes\example\Lists$.class -> lastModified(1512932124425)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\target\scala-2.11\classes\example\Lists.class -> lastModified(1512932124410)
+source stamps:
+1 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> hash(58045a0b6ec26736e6bd5c9a6eb84d4e828d2e76)
+binary stamps:
+2 items
+C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar -> lastModified(1469559868531)
+C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+2 items
+C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar -> scala.collection.immutable.List
+internal apis:
+1 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCIPRafAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJ+JZ/Z0AAZub3RpZnlzcQB+AAzvbHvHdAAFTGlzdHNzcQB+AAwlWjIFdAAEd2FpdHNxAH4ADFQK8ph0AA0kYXNJbnN0YW5jZU9mc3EAfgAMyqFzz3QABmVxdWFsc3NxAH4ADGSsdiB0AAxhc0luc3RhbmNlT2ZzcQB+AAzSC8nJdAAMc3luY2hyb25pemVkc3EAfgAMXc66SHQADSRpc0luc3RhbmNlT2ZzcQB+AAy6kcjvdAAJbm90aWZ5QWxsc3EAfgAMLZas73QADGlzSW5zdGFuY2VPZnNxAH4ADEiVr7x0AANtYXhzcQB+AAziuTtydAACPT1zcQB+AAzC+4w/dAAFY2xvbmVzcQB+AAyD1LY/dAAIdG9TdHJpbmdzcQB+AAx6TRlpdAACIT1zcQB+AAzT2DPYdAAIZ2V0Q2xhc3NzcQB+AAx8T68vdAACbmVzcQB+AAwuzkZudAACZXFzcQB+AAy5DX+QdAADc3Vtc3EAfgAM2MiRYXQAAiMjc3EAfgAMgom1OXQACGZpbmFsaXplc3EAfgAM7YOoxHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADWV4YW1wbGUuTGlzdHN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBceHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbAHBzcQB+AGBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBkc3EAfgBbAHBzcQB+AGB1cQB+AD4AAAAAc3EAfgBbAHBzcQB+AGB1cQB+AD4AAAAAc3EAfgBbAHBzcQB+AGB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2V4YW1wbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWBByAOOdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAc0Q6XERldlxGdW5jdGlvbmFsX1Byb2dyYW1taW5nX2luX1NjYWxhXDQgLSBCaWdfRGF0YV9BbmFseXNpc193aXRoX1NjYWxhX2FuZF9TcGFya1xleGFtcGxlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRYBFoLbsJnNua9XJpuuE1Ogo0udg==
+external apis:
+0 items
+source infos:
+1 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\example\src\main\scala\example\Lists.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYEHIA451cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAc0Q6XERldlxGdW5jdGlvbmFsX1Byb2dyYW1taW5nX2luX1NjYWxhXDQgLSBCaWdfRGF0YV9BbmFseXNpc193aXRoX1NjYWxhX2FuZF9TcGFya1xleGFtcGxlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
