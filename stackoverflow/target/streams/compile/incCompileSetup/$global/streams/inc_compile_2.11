@@ -1,0 +1,473 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+42 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\package$.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\package.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\Posting$.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\Posting.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$1.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$10.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$12.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$13$$anonfun$apply$1.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$13.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$14.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$15.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$16.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$17.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$18$$anonfun$19.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$18$$anonfun$2.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$18$$anonfun$20.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$18$$anonfun$21.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$18$$anonfun$22.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$18.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$3.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$4.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$5.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$6.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$7.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$8.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$9.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$clusterResults$1.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$clusterResults$2.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$findClosest$1.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$kmeans$1.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$kmeans$2.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$printResults$1.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$printResults$2.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$rawPostings$1.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$sampleVectors$1.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$sampleVectors$2.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$scoredPostings$1.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$.class
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow.class
+binary dependencies:
+5 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> C:\Program Files\Java\jre1.8.0_131\lib\rt.jar
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> C:\Program Files\Java\jre1.8.0_131\lib\rt.jar
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+42 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> stackoverflow.package
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> stackoverflow.package$
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.Posting
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.Posting$
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$10
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$11
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$12
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$13
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$13$$anonfun$apply$1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$14
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$15
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$16
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$17
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$18
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$18$$anonfun$19
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$18$$anonfun$2
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$18$$anonfun$20
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$18$$anonfun$21
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$18$$anonfun$22
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$3
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$4
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$5
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$6
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$7
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$8
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$9
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$clusterResults$1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$clusterResults$2
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$findClosest$1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$kmeans$1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$kmeans$2
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$printResults$1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$printResults$2
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$rawPostings$1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$sampleVectors$1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$sampleVectors$2
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$scoredPostings$1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1
+used names:
+259 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> <init>
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> AnyRef
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> Int
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> Posting
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> package
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> scala
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> stackoverflow
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> %
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> &&
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> *
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> +
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> -
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> /
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> <
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> <init>
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ==
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> >
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> >=
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> AbstractFunction6
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Answer
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Array
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Boolean
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ClassTag
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Double
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> HighScore
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Int
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Iterable
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Iterator
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> LangIndex
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> List
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Long
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> None
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Option
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Ordering
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Posting
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Predef
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Product
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> QID
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Question
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> RDD
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Random
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ScalaRunTime
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Serializable
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> SparkConf
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> SparkContext
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> StackOverflow
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Statics
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> String
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> StringContext
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> StringOps
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Tuple2
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Tuple4
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Unit
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _2
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _3
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _4
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _toString
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> a
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> a1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> a2
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> abs
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> acceptedAnswer
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> annotation
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> answerHighScore
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> answers
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> anyHash
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> apache
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> apply
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$2
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$3
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$4
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$5
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$6
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$7
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arr
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> as
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> asInstanceOf
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> assert
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> augmentString
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> averageVectors
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> bestIndex
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> canBuildFrom
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> centers
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> clone
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> closest
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> closestGrouped
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> clusterResults
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> clusterSize
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> clusters
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> collect
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> collection
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> comp1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> comp2
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> conf
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> converged
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> count
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> debug
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> distance
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> elt
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> eq
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> euclideanDistance
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> f
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> filter
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> finalizeHash
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> findClosest
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> firstLangInTag
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> flatMap
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> foreach
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> format
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> get
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> groupBy
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> groupByKey
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> grouped
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> groupedPostings
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> hasNext
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> head
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> highScore
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> i
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> id
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> identity
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> idx
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> immutable
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> intArrayOps
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> intWrapper
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> intern
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> isDefined
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> isEmpty
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> isInstanceOf
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> item
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> iter
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> iterator
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> j
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> join
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> kmeans
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> kmeansEta
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> kmeansKernels
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> kmeansMaxIterations
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> lang
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> langId
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> langIndex
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> langLabel
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> langPercent
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> langSpread
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> langs
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> last
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> length
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> line
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> lines
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> lower
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ls
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> map
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> mapValues
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> materializeClassTag
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> math
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> maxBy
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> means
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> median
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> medianScore
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> mix
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ne
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> newMeans
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> next
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> nextLong
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> org
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> p
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> package
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> pair
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> parentId
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> part1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> part2
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> perLang
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> percent
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> persist
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> point
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> post
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> postingType
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> postings
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> printResults
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> println
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ps
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> question
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> questions
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> raw
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> rawPostings
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> rdd
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> rddToPairRDDFunctions
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> refArrayOps
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> reflect
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> res
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> reservoirSampling
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> results
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> rnd
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> runtime
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> s
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sampleVectors
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sc
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> scala
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> score
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> scored
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> scoredPostings
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> setAppName
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> setMaster
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> size
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sortBy
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sortWith
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sorted
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> spark
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> split
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> splitAt
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stripMargin
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sum
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tag
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tags
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tail
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tailrec
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> takeSample
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tempDist
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> textFile
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tmp
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toArray
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toDouble
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toInt
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toIterator
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toList
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toLong
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toString
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> typedProductIterator
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> unchecked
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> until
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> update
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> upper
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> util
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> v1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> v2
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> vectorPostings
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> vectors
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> vs
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> while$1
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> while$2
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> while$3
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> while$4
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> withFilter
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$18
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$19
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$20
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$21
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$22
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$23
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$24
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$25
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$26
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$27
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$28
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$29
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ||
+product stamps:
+42 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\package$.class -> lastModified(1513974108648)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\package.class -> lastModified(1513974108648)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\Posting$.class -> lastModified(1513977037390)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\Posting.class -> lastModified(1513977037406)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$1.class -> lastModified(1513977037421)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$10.class -> lastModified(1513977037437)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11.class -> lastModified(1513977037437)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$12.class -> lastModified(1513977037437)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$13$$anonfun$apply$1.class -> lastModified(1513977037453)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$13.class -> lastModified(1513977037437)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$14.class -> lastModified(1513977037453)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$15.class -> lastModified(1513977037453)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$16.class -> lastModified(1513977037453)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$17.class -> lastModified(1513977037453)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$18$$anonfun$19.class -> lastModified(1513977037468)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$18$$anonfun$2.class -> lastModified(1513977037468)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$18$$anonfun$20.class -> lastModified(1513977037468)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$18$$anonfun$21.class -> lastModified(1513977037484)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$18$$anonfun$22.class -> lastModified(1513977037484)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$18.class -> lastModified(1513977037468)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$3.class -> lastModified(1513977037484)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$4.class -> lastModified(1513977037484)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$5.class -> lastModified(1513977037484)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$6.class -> lastModified(1513977037499)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$7.class -> lastModified(1513977037499)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$8.class -> lastModified(1513977037499)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$9.class -> lastModified(1513977037499)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$clusterResults$1.class -> lastModified(1513977037515)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$clusterResults$2.class -> lastModified(1513977037515)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$findClosest$1.class -> lastModified(1513977037515)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$kmeans$1.class -> lastModified(1513977037515)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$kmeans$2.class -> lastModified(1513977037531)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$printResults$1.class -> lastModified(1513977037531)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$printResults$2.class -> lastModified(1513977037531)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$rawPostings$1.class -> lastModified(1513977037531)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$sampleVectors$1.class -> lastModified(1513977037546)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$sampleVectors$2.class -> lastModified(1513977037546)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$scoredPostings$1.class -> lastModified(1513977037546)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1513977037562)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1.class -> lastModified(1513977037546)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$.class -> lastModified(1513977037406)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow.class -> lastModified(1513977037421)
+source stamps:
+2 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> hash(a76486ea92f8ad69b083c54d9922d75e90fb1109)
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> hash(519b2620302035bcb9c2dafccdf9b437acf52369)
+binary stamps:
+3 items
+C:\Program Files\Java\jre1.8.0_131\lib\rt.jar -> lastModified(1493630553024)
+C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+3 items
+C:\Program Files\Java\jre1.8.0_131\lib\rt.jar -> java.lang.Object
+C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkContext
+C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar -> scala.Product
+internal apis:
+2 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH9b1CAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cI/sbgt0AAZub3RpZnlzcQB+AAyOvZmHdAAHcGFja2FnZXNxAH4ADLKDX3V0AAR3YWl0c3EAfgAMUpZg3HQADSRhc0luc3RhbmNlT2ZzcQB+AAwjPlgsdAAGZXF1YWxzc3EAfgAMdPk33HQACFF1ZXN0aW9uc3EAfgAMZOAURXQADGFzSW5zdGFuY2VPZnNxAH4ADLx10hp0AAxzeW5jaHJvbml6ZWRzcQB+AAxtg4g/dAANJGlzSW5zdGFuY2VPZnNxAH4ADG81yS50AAlMYW5nSW5kZXhzcQB+AAw/aKJydAAJbm90aWZ5QWxsc3EAfgAMyrkrXXQADGlzSW5zdGFuY2VPZnNxAH4ADPG9Bb90AAlIaWdoU2NvcmVzcQB+AAxCDuZqdAADUUlEc3EAfgAMdsVp93QAAj09c3EAfgAMWVE8MHQABWNsb25lc3EAfgAMDB6ldHQACHRvU3RyaW5nc3EAfgAMA8RPiXQAAiE9c3EAfgAMR4wmc3QACGdldENsYXNzc3EAfgAMMZPm+nQAAm5lc3EAfgAMXqcArHQAAmVxc3EAfgAMt1qhdHQAAiMjc3EAfgAMmPe2v3QACGZpbmFsaXplc3EAfgAM8udK5XQACGhhc2hDb2Rlc3EAfgAMgneernQABkFuc3dlcnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABVzdGFja292ZXJmbG93LnBhY2thZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBieHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBhAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGpzcQB+AGEBdXEAfgBEAAAAAHBzcQB+AGEBdXEAfgBEAAAAAHBzcQB+AGEBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBpdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCCdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCDc3EAfgB2dAADQW55c3EAfgB6c3EAfgB9dXEAfgCAAAAAAnNxAH4AgnQABXNjYWxhcQB+AIlwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADXN0YWNrb3ZlcmZsb3dzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWB/44AxdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAeUQ6XERldlxGdW5jdGlvbmFsX1Byb2dyYW1taW5nX2luX1NjYWxhXDQgLSBCaWdfRGF0YV9BbmFseXNpc193aXRoX1NjYWxhX2FuZF9TcGFya1xzdGFja292ZXJmbG93XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSnZIbqkvitabCDxU2ZItdekPsRCQ==
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA6xsfqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cH1FHht0AAZub3RpZnlzcQB+AAwgvS9odAAJa21lYW5zRXRhc3EAfgAMJv5IrnQAC3Jhd1Bvc3Rpbmdzc3EAfgAM4X5k0nQABHdhaXRzcQB+AAxKYL+mdAAOY29weSRkZWZhdWx0JDJzcQB+AAygG18edAANJGFzSW5zdGFuY2VPZnNxAH4ADKxfRrx0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADPhOYP50AAxwcm9kdWN0QXJpdHlzcQB+AAxXOrzpdAAGZXF1YWxzc3EAfgAMbJf7MnQABHRhZ3NzcQB+AAzJuOm0dAAMYXNJbnN0YW5jZU9mc3EAfgAMwttMO3QADHN5bmNocm9uaXplZHNxAH4ADLMJuwJ0AAVzY29yZXNxAH4ADHJuVjt0AAJzY3NxAH4ADBvwXPB0ABNrbWVhbnNNYXhJdGVyYXRpb25zc3EAfgAMYvE1+3QADSRpc0luc3RhbmNlT2ZzcQB+AAzzzG2IdAANU3RhY2tPdmVyZmxvd3NxAH4ADM5cnh10AAxwcmludFJlc3VsdHNzcQB+AAzIn2t9dAAFbGFuZ3NzcQB+AAyldEDFdAAIY2FuRXF1YWxzcQB+AAwe7hwudAAOY29weSRkZWZhdWx0JDRzcQB+AAzEhN2ydAALcG9zdGluZ1R5cGVzcQB+AAxJ6SMGdAAOdmVjdG9yUG9zdGluZ3NzcQB+AAx7nEv2dAAEbWFpbnNxAH4ADG7Dww50AApsYW5nU3ByZWFkc3EAfgAMpLgpp3QAEGttZWFucyRkZWZhdWx0JDRzcQB+AAx2YY0mdAANcHJvZHVjdFByZWZpeHNxAH4ADHlijuB0AAlub3RpZnlBbGxzcQB+AAyuJJKRdAALcmVhZFJlc29sdmVzcQB+AAxZefNEdAAEY29uZnNxAH4ADBJ4knd0AAljb252ZXJnZWRzcQB+AAwOSkICdAAMaXNJbnN0YW5jZU9mc3EAfgAMvT760XQABjxpbml0PnNxAH4ADJJ4O+50AAJpZHNxAH4ADKImXfN0ABBrbWVhbnMkZGVmYXVsdCQzc3EAfgAMGYhbQ3QAB1Bvc3RpbmdzcQB+AAwW7WQmdAAOc2NvcmVkUG9zdGluZ3NzcQB+AAzmBbp7dAACPT1zcQB+AAwdsU7vdAANY29tcHV0ZU1lZGlhbnNxAH4ADARsow90AAVjbG9uZXNxAH4ADKoKMtR0AA5hY2NlcHRlZEFuc3dlcnNxAH4ADHhDZ+x0AA1rbWVhbnNLZXJuZWxzc3EAfgAMaNfozHQADmNvcHkkZGVmYXVsdCQzc3EAfgAMZpJBLnQABGNvcHlzcQB+AAy3qQDrdAAIdG9TdHJpbmdzcQB+AAxE/q+8dAAPZ3JvdXBlZFBvc3Rpbmdzc3EAfgAMszZOKnQAAiE9c3EAfgAMONA2lnQADXNhbXBsZVZlY3RvcnNzcQB+AAymB5nDdAAOY2x1c3RlclJlc3VsdHNzcQB+AAxdUx1NdAAIZ2V0Q2xhc3NzcQB+AAzsS+zhdAAOY29weSRkZWZhdWx0JDFzcQB+AAzQ9y4pdAARZXVjbGlkZWFuRGlzdGFuY2VzcQB+AAwFl+p2dAAOY29weSRkZWZhdWx0JDZzcQB+AAx/l8l0dAACbmVzcQB+AAwDFPMBdAAIcGFyZW50SWRzcQB+AAxZzEItdAAOYXZlcmFnZVZlY3RvcnNzcQB+AAyeTetbdAACZXFzcQB+AAx4Xj+kdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMp62R1nQAAiMjc3EAfgAMEyzTt3QACGZpbmFsaXplc3EAfgAMCyl8FnQAC2ZpbmRDbG9zZXN0c3EAfgAMks+k4HQABmttZWFuc3NxAH4ADLQcEpN0AA5wcm9kdWN0RWxlbWVudHNxAH4ADDija4N0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABVzdGFja292ZXJmbG93LlBvc3Rpbmd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+ALB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AK8AcHNxAH4AtHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCXTAAJaW5oZXJpdGVkcQB+AJdMAAdwYXJlbnRzcQB+AJd4cQB+ALhzcQB+AK8AcHNxAH4AtHVxAH4AkgAAAABzcQB+AK8AcHNxAH4AtHVxAH4AkgAAAABzcQB+AK8AcHNxAH4AtHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4At3QAB1Byb2R1Y3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ANVzcQB+AMh0AAZFcXVhbHNxAH4AznNxAH4AyHQADFNlcmlhbGl6YWJsZXEAfgDOc3EAfgDIcQB+AN1zcQB+AMxzcQB+AM91cQB+ANIAAAADc3EAfgDUdAAEamF2YXNxAH4A1HQAAmlvcQB+ANlzcQB+AMh0AAZPYmplY3RzcQB+AMxzcQB+AM91cQB+ANIAAAADc3EAfgDUcQB+AONzcQB+ANR0AARsYW5ncQB+ANlzcQB+AMh0AANBbnlxAH4AznNxAH4AlHEAfgChdXEAfgCiAAAAAHNxAH4ApAB0ABtzdGFja292ZXJmbG93LlN0YWNrT3ZlcmZsb3d1cQB+AKcAAAAAfnEAfgCpdAAGTW9kdWxldXEAfgCtAAAAAXQAGHNjYWxhLmFubm90YXRpb24udGFpbHJlY3NxAH4ArwBwc3EAfgC0cQB+ALlzcQB+AK8AcHNxAH4AtHNxAH4AvHNxAH4ArwBwc3EAfgC0dXEAfgCSAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCYcQB+AKF1cQB+AKIAAAAAc3EAfgCkAHEAfgA9dXEAfgCnAAAAAHNxAH4AyHQABFVuaXRzcQB+AMxzcQB+AM91cQB+ANIAAAACc3EAfgDUcQB+ANdxAH4A2XVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AQJ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AKp0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AMlbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ALdzcQB+AMh0AAVBcnJheXEAfgEKdXEAfgDGAAAAAXNxAH4AyHQABlN0cmluZ3NxAH4AzHNxAH4Az3VxAH4A0gAAAANzcQB+ANRxAH4A43NxAH4A1HEAfgDtcQB+ANlzcQB+AK8AcHNxAH4AtHVxAH4AkgAAAABzcQB+AK8AcHNxAH4AtHVxAH4AxgAAAAVzcQB+AMh0AA1TdGFja092ZXJmbG93c3EAfgDMc3EAfgDPdXEAfgDSAAAAAnNxAH4A1HQADXN0YWNrb3ZlcmZsb3dxAH4A2XNxAH4AyHEAfgDdcQB+AQpzcQB+AMhxAH4A3XNxAH4AzHNxAH4Az3VxAH4A0gAAAANzcQB+ANRxAH4A43NxAH4A1HQAAmlvcQB+ANlzcQB+AMhxAH4A53EAfgEkc3EAfgDIcQB+AO9xAH4BCnNxAH4AlHEAfgChdXEAfgCiAAAAAHNxAH4ApAB0ABtzdGFja292ZXJmbG93LlN0YWNrT3ZlcmZsb3d1cQB+AKcAAAAAcQB+AKt1cQB+AK0AAAABdAAYc2NhbGEuYW5ub3RhdGlvbi50YWlscmVjc3EAfgCvAHBzcQB+ALRxAH4AuXNxAH4ArwBwc3EAfgC0c3EAfgC8c3EAfgCvAHBzcQB+ALR1cQB+AJIAAAAAc3EAfgCvAHBzcQB+ALR1cQB+AJIAAAAAc3EAfgCvAHBzcQB+ALR1cQB+AMYAAAAEc3EAfgDIcQB+AN1zcQB+AMxzcQB+AM91cQB+ANIAAAACc3EAfgDUcQB+ANdxAH4A2XNxAH4AyHEAfgDdc3EAfgDMc3EAfgDPdXEAfgDSAAAAA3NxAH4A1HEAfgDjc3EAfgDUdAACaW9xAH4A2XNxAH4AyHEAfgDnc3EAfgDMc3EAfgDPdXEAfgDSAAAAA3NxAH4A1HEAfgDjc3EAfgDUcQB+AO1xAH4A2XNxAH4AyHEAfgDvcQB+AVZ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AA1zdGFja292ZXJmbG93c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFggBA7xnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AHlEOlxEZXZcRnVuY3Rpb25hbF9Qcm9ncmFtbWluZ19pbl9TY2FsYVw0IC0gQmlnX0RhdGFfQW5hbHlzaXNfd2l0aF9TY2FsYV9hbmRfU3Bhcmtcc3RhY2tvdmVyZmxvd1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUUZsmIDAgNby5wtr8zfm0N6z1I2k=
+external apis:
+0 items
+source infos:
+2 items
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\package.scala -> 
+AAAAAAAAAAA=
+D:\Dev\Functional_Programming_in_Scala\4 - Big_Data_Analysis_with_Scala_and_Spark\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> 
+AAAAAgAAAQAAAHsAJSAgICAgIChxdWVzdGlvbiwgaGlnaFNjb3JlKSA8LSBzY29yZWQBAAAQYQEAAAAfAQAfICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEAkEQ6XERldlxGdW5jdGlvbmFsX1Byb2dyYW1taW5nX2luX1NjYWxhXDQgLSBCaWdfRGF0YV9BbmFseXNpc193aXRoX1NjYWxhX2FuZF9TcGFya1xzdGFja292ZXJmbG93XHNyY1xtYWluXHNjYWxhXHN0YWNrb3ZlcmZsb3dcU3RhY2tPdmVyZmxvdy5zY2FsYQEAkEQ6XERldlxGdW5jdGlvbmFsX1Byb2dyYW1taW5nX2luX1NjYWxhXDQgLSBCaWdfRGF0YV9BbmFseXNpc193aXRoX1NjYWxhX2FuZF9TcGFya1xzdGFja292ZXJmbG93XHNyY1xtYWluXHNjYWxhXHN0YWNrb3ZlcmZsb3dcU3RhY2tPdmVyZmxvdy5zY2FsYQCUYHdpdGhGaWx0ZXInIG1ldGhvZCBkb2VzIG5vdCB5ZXQgZXhpc3Qgb24gb3JnLmFwYWNoZS5zcGFyay5yZGQuUkREWyhzdGFja292ZXJmbG93LlF1ZXN0aW9uLCBzdGFja292ZXJmbG93LkhpZ2hTY29yZSldLCB1c2luZyBgZmlsdGVyJyBtZXRob2QgaW5zdGVhZAEAAAEAAAB7ACUgICAgICAocXVlc3Rpb24sIGhpZ2hTY29yZSkgPC0gc2NvcmVkAQAAEF4BAAAAHAEAHCAgICAgICAgICAgICAgICAgICAgICAgICAgICABAJBEOlxEZXZcRnVuY3Rpb25hbF9Qcm9ncmFtbWluZ19pbl9TY2FsYVw0IC0gQmlnX0RhdGFfQW5hbHlzaXNfd2l0aF9TY2FsYV9hbmRfU3Bhcmtcc3RhY2tvdmVyZmxvd1xzcmNcbWFpblxzY2FsYVxzdGFja292ZXJmbG93XFN0YWNrT3ZlcmZsb3cuc2NhbGEBAJBEOlxEZXZcRnVuY3Rpb25hbF9Qcm9ncmFtbWluZ19pbl9TY2FsYVw0IC0gQmlnX0RhdGFfQW5hbHlzaXNfd2l0aF9TY2FsYV9hbmRfU3Bhcmtcc3RhY2tvdmVyZmxvd1xzcmNcbWFpblxzY2FsYVxzdGFja292ZXJmbG93XFN0YWNrT3ZlcmZsb3cuc2NhbGEAo2B3aXRoRmlsdGVyJyBtZXRob2QgZG9lcyBub3QgeWV0IGV4aXN0IG9uIG9yZy5hcGFjaGUuc3BhcmsucmRkLlJERFsoKHN0YWNrb3ZlcmZsb3cuUXVlc3Rpb24sIHN0YWNrb3ZlcmZsb3cuSGlnaFNjb3JlKSwgT3B0aW9uW0ludF0pXSwgdXNpbmcgYGZpbHRlcicgbWV0aG9kIGluc3RlYWQBAAAAAA==
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYH/jgDF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeUQ6XERldlxGdW5jdGlvbmFsX1Byb2dyYW1taW5nX2luX1NjYWxhXDQgLSBCaWdfRGF0YV9BbmFseXNpc193aXRoX1NjYWxhX2FuZF9TcGFya1xzdGFja292ZXJmbG93XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYH/45QN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeUQ6XERldlxGdW5jdGlvbmFsX1Byb2dyYW1taW5nX2luX1NjYWxhXDQgLSBCaWdfRGF0YV9BbmFseXNpc193aXRoX1NjYWxhX2FuZF9TcGFya1xzdGFja292ZXJmbG93XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYIAEmMB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeUQ6XERldlxGdW5jdGlvbmFsX1Byb2dyYW1taW5nX2luX1NjYWxhXDQgLSBCaWdfRGF0YV9BbmFseXNpc193aXRoX1NjYWxhX2FuZF9TcGFya1xzdGFja292ZXJmbG93XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYIAQO8Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAeUQ6XERldlxGdW5jdGlvbmFsX1Byb2dyYW1taW5nX2luX1NjYWxhXDQgLSBCaWdfRGF0YV9BbmFseXNpc193aXRoX1NjYWxhX2FuZF9TcGFya1xzdGFja292ZXJmbG93XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
